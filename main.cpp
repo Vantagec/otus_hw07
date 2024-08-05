@@ -5,7 +5,7 @@
 #include <commandscontroller.hpp>
 #include <streamredirect.hpp>
 #include "version.h"
-//01
+//002
 int main(int argc, const char *argv[]) {
     std::cout << "Bulk version: " << PROJECT_VERSION << std::endl;
 
